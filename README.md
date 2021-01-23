@@ -8,3 +8,6 @@ A simple game made with html,css,js
 # Resources \references:
 Helicopter games code is extracted from 
 link :https://github.com/bikrambhattacharya/Helicopter-game
+Model link from Teachable machine:
+link:https://teachablemachine.withgoogle.com/models/3Ksai7Ifq/
+
